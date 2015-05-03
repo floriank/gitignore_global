@@ -1,6 +1,9 @@
 # Sublime Text project files
 *.sublime-*
 
+# rvm settings
+.ruby-*
+
 # Created by https://www.gitignore.io
 
 ### Rails ###
