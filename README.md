@@ -7,7 +7,7 @@ To use:
 - Clone the repo 
 
 ```
-git clone https://github.com/floriank/gitignore ~/.gitignore/
+git clone git@github.com:floriank/gitignore_global ~/.gitignore/
 ```
 
 - Add the following line to your `~/.gitconfig`
