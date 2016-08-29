@@ -38,11 +38,9 @@ config/secrets.yml
 # if using bower-rails ignore default bower_components path bower.json files
 /vendor/assets/bower_components
 *.bowerrc
-bower.json
 
 # Ignore pow environment settings
 .powenv
-
 
 ### Go ###
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
@@ -102,3 +100,6 @@ node_modules
 
 # ag ignores do not belong in a repo
 .agignore
+
+# goconvey configuration files
+*.goconvey
