@@ -1,6 +1,10 @@
 # Sublime Text project files
 *.sublime-*
 
+# .elixir-ls (LSP builds)
+.elixir-ls
+.elixir_ls
+
 # rvm settings
 .ruby-*
 
