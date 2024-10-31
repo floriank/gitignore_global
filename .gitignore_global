@@ -1,6 +1,10 @@
 # Sublime Text project files
 *.sublime-*
 
+# code project files
+.vscode
+*.code-workspace
+
 # .elixir-ls (LSP builds)
 .elixir-ls
 .elixir_ls
@@ -8,12 +12,14 @@
 # rvm settings
 .ruby-*
 
+# CF k8s helper
+k8s-oidc-helper
+
 # Created by https://www.gitignore.io
 
 ### Rails ###
 *.rbc
 capybara-*.html
-.rspec
 /log
 /tmp
 /db/*.sqlite3
